@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Polách"
+  given-names: "Radomír"
+  orcid: "https://orcid.org/0000-0001-8381-0866"
+title: "CZ.ZONE: ccTLD .cz zonefile research results"
+version: 1.0.0
+date-released: 2023-01-22
+url: "https://github.com/exander77/cz.zone"
