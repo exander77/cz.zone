@@ -1,6 +1,6 @@
 # CZ.ZONE
 
-This is the result of research into the enumeration of ccTLD .cz. The zonefile is above 99.9% accurate as of 2023-01-22.
+This is the result of research into the enumeration of ccTLD .cz. The zonefile is above 99.9% accurate as of 2023-04-30.
 
 # License
 
